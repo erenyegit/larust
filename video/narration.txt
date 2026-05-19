@@ -1,0 +1,15 @@
+Most feedback tools collect text. Larust collects evidence.
+
+We built Larust for the Walrus Sessions hackathon. It's a feedback and form platform where every submission becomes a canonical record on Walrus, with sensitive fields protected by Seal.
+
+Today, product teams scatter feedback across email, chat, and forgotten screenshots. Important details get lost, ownership is fuzzy, and there's no durable record of what was actually reported.
+
+Larust fixes the intake side first. Anyone can open a public link and submit without ever connecting a wallet. Forms support rich text, dropdowns, checkboxes, star ratings, screenshots, video uploads, URLs, and required fields, every input type a modern feedback tool needs.
+
+Behind the scenes, every submission payload and every uploaded asset is written to Walrus. The returned blob ID becomes the canonical reference, durable, retrievable, and verifiable.
+
+Fields the owner marks as sensitive are isolated at submit time and encrypted with Seal before the canonical write. Public answers stay queryable; private answers stay protected.
+
+Form owners connect their Sui wallet, sign a session, and unlock a private dashboard. From there they triage submissions, filter by status, priority, or date, add notes, set urgency, and export as JSON or CSV.
+
+Walletless intake. Walrus-native evidence. Seal-protected secrets. Wallet-gated admin. That's Larust.
