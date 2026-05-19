@@ -1,9 +1,7 @@
 # Larust
 
-> 🌊 Live demo: <FILL_LIVE_URL>
-> 🎥 Demo video: <FILL_LOOM_OR_YOUTUBE>
-> 📨 Submission: https://www.deepsurge.xyz/hackathons/c2c48b38-33a7-405c-922b-a3be2ad25158
-> ⚡ Sui testnet — wallet ile owner ol, walletsiz submit et.
+> 🎥 video: https://www.youtube.com/watch?v=h5GFiSFPN_U****
+
 
 **Feedback that lasts. Evidence that proves.**
 
